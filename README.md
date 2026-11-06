@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for collaboration opportunities **in AI, Software Development & Scalable Applications **
 
-- 📫 How to reach me **motesamiksha638@gmail.com**
+- 📫 How to reach me **motesamiksha638@gmail.com** 
+
+- ✅ My Website: https://samiksha-mote.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
