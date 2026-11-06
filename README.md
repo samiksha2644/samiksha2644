@@ -3,11 +3,11 @@
 
 <img align="right" alt="I love Donuts" width="400" src="https://i.redd.it/gtd91xvup9b51.gif">
 
-- 🌱 I’m currently learning **AI, Data Science, and advanced MERN stack development**
+- 🌱 I’m currently learning **AI, AWS Cloud Services, and advanced MERN stack development**
 
 - 👯 I’m looking to collaborate on **full-stack web development and AI-related projects**
 
-- 🤝 I’m looking for guidance and collaboration opportunities **in AI, Machine Learning, and Data Science**
+- 🤝 I’m looking for collaboration opportunities **in AI, Software Development & Scalable Applications **
 
 - 📫 How to reach me **motesamiksha638@gmail.com**
 
